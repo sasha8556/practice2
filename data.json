@@ -1,7 +1,32 @@
 [
   {
-    "username": "sam",
-    "email": "sam@mail.ru",
-    "password": "$2b$10$LtpksOJHT8J00Up0XWfPD.sSQ4ox.u66B7SWbYnXcATqFmL/Nzdjm"
+    "username": "andrei",
+    "email": "andrei@mail.ru",
+    "password": "$2b$10$I6yF8I18uEAj0cOcgU/mAOfTA2LWSTlnlX1uvL.trVwHaGTTkD3Zi"
+  },
+  {
+    "username": "sasha",
+    "email": "sasha@mail.ru",
+    "password": "$2b$10$x9diUnamhMGCFn5OUwHPOu93YptHfGldOYhzTTUXSgWZRoe5WtmgS"
+  },
+  {
+    "username": "katia",
+    "email": "katia@mail.ru",
+    "password": "$2b$10$SynrWM.TVT88jf9Cs.0t/u4c372lFk83Q58N1qzoztiRFQZJa824K"
+  },
+  {
+    "username": "Lada",
+    "email": "lada@mail.ru",
+    "password": "$2b$10$HUckvObOT6LD/WpLXzef5eZmWEoPmPMfSENqcMNPBPw4D.atT0hkK"
+  },
+  {
+    "username": "kot",
+    "email": "kot@mail.ru",
+    "password": "$2b$10$M7atD8rCodJDYK8KkKdP3OFOXBw7FR1JsHl0/yZkkhoCgtErytsbu"
+  },
+  {
+    "username": "lilia",
+    "email": "lilia@mail.ru",
+    "password": "$2b$10$24Jf8W06MUHXeCRlMOxgLOwsuX9hIF6if9MEeEYppbBiG7s08W7qa"
   }
 ]
